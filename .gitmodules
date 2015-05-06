@@ -1,0 +1,3 @@
+[submodule "vendor/vvvv.js"]
+	path = vendor/vvvv.js
+	url = git@github.com:zauner/vvvv.js.git
